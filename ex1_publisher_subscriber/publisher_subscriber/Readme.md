@@ -15,3 +15,4 @@ Il publisher crea il messaggio dando valori randomici alle 6 posizioni, successi
 
 Il subscriber riceve il messaggio dal canale "chatter". Il messaggio ricevuto viene stampato anche sul terminale.
 
+Rotondo Antonio 0622701489
