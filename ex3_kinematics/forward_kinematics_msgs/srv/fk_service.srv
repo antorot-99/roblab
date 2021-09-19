@@ -1,0 +1,5 @@
+# Request
+moveit_msgs/RobotState robot_state
+---
+# Response
+geometry_msgs/Pose end_effector
